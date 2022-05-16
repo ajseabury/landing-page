@@ -9,3 +9,24 @@ ul {
 li a {
     text-decoration: none;
 }
+
+.h-logo a {
+    font-size: 24px;
+    color: #F9FAF8;    
+}
+
+header, footer, .first {
+    background-color: #1f2937;
+}
+
+header a, .first p {
+    font-size: 18px;
+    color: #E5E7Eb;
+}
+
+.first h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: extra-bold;
+}
+
